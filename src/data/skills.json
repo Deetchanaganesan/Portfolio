@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Html",
+    "imageSrc": "assests/skills/html.png"
+  },
+  {
+    "title": "Css",
+    "imageSrc": "assests/skills/css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "assests/skills/js.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "assests/skills/react.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "assests/skills/figma.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "assests/skills/git.png"
+  }
+]

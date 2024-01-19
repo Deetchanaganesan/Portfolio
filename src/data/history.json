@@ -1,0 +1,18 @@
+[
+  {
+    "role": "FrontEnd Developer Internship",
+    "organisation": "V Guard",
+    "startDate": "December 1 2021",
+    "endDate": "December 31 2021",
+    "experiences": ["Real Time Monitoring System"],
+    "imageSrc": "assests/experience/vguard.png"
+  },
+  {
+    "role": "FrontEnd Developer Internship",
+    "organisation": "MachDatum",
+    "startDate": "June 9 2023",
+    "endDate": "December 15 2023",
+    "experiences": ["Dashboards and Shop Floor Visibility"],
+    "imageSrc": "assests/experience/machdatum.png"
+  }
+]

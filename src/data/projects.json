@@ -1,0 +1,26 @@
+[
+  {
+    "title": "A",
+    "imageSrc": "assests/projects/Youtube.png",
+    "description": "Youtube clone which was developed using React Js.",
+    "skills": ["Javascript", "CSS", "React"],
+    "demo": "https://youtube-clone09.netlify.app/",
+    "source": "https://github.com/Deetchanaganesan/youtube-clone"
+  },
+  {
+    "title": "B",
+    "imageSrc": "assests/projects/Insta.jpg",
+    "description": "Insta clone which was developed using HTML & CSS.",
+    "skills": ["Html", "Css", "Js"],
+    "demo": "https://basic-web-insta-clone.netlify.app/",
+    "source": "https://github.com/Deetchanaganesan/Insta-Clone"
+  },
+  {
+    "title": "C",
+    "imageSrc": "assests/projects/Resturant.png",
+    "description": "Food storify blog which was developed using JS.",
+    "skills": ["Html", "Js", "React"],
+    "demo": "https://food-storify.netlify.app/",
+    "source": "https://github.com/Deetchanaganesan/resturant.github.io"
+  }
+]
